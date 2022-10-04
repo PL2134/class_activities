@@ -24,7 +24,7 @@ APIs to Investigate:
 
 * Coinbase provides price data for cryptocurrencies through their API. Use the Coinbase API if you need to get the price of a crypto for any given moment, such as `BTC`.
 
-  > https://api.coinbase.com/v2/prices/BTC-USD/buy?format=json
+  > https://api.coinbase.com/v2/prices/BTC-AUD/buy?format=json
 
 ## Instructions
 
@@ -46,7 +46,7 @@ Let the TAs know once you've finished the core activity. If time still remains, 
 
 1. Change the above `Nasdaq` request URL to query for `AMD` instead of `GOOG`.
 
-2. Update the `Coinbase` request URL to query for `ETH-USD` instead of `BTC-USD`.
+2. Update the `Coinbase` request URL to query for `ETH-USD` instead of `BTC-AUD`.
 
 3. Use the `Nasdaq API` to get `GOOG` stock data in `CSV` format. Take note of how the change in URL alters the format (json vs csv) of the data returned by the API.
 

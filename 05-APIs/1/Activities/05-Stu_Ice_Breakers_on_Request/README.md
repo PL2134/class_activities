@@ -10,9 +10,9 @@ APIS
 
 * Exchange Rates ->  https://open.er-api.com/v6/latest/CAD
 
-* U.S. Dept of Treasury Spending Stats -> https://api.usaspending.gov//api/v2/references/agency/456/
+* The Daily Releases of Statistics Canada: <https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/daily-banner-eng.json>
 
-* U.S. GDP Data -> http://api.worldbank.org/v2/country/us?format=json
+* Australia GDP Data -> http://api.worldbank.org/v2/country/au?format=json
 
 ## Instructions
 
