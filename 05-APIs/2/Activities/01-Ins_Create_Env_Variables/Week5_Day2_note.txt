@@ -1,0 +1,12 @@
+listing in GitBash:
+ls -a
+ls -altr
+ls -l
+
+save and quit in gitbash
+:wq
+
+"w" means save
+"q" means quit
+
+class activity 5 is similar to assignment 5, can refer back to it.
